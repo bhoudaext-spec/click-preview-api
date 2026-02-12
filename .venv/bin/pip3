@@ -1,4 +1,4 @@
-#!/home/fnoual/click-preview-api/.venv/bin/python3
+#!/home/click-preview-api/.venv/bin/python3
 # -*- coding: utf-8 -*-
 import re
 import sys
